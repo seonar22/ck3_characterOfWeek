@@ -25,12 +25,11 @@ Listing character of week from CK3 game. PDX updated it every Friday(in GMT+6:30
    * achievements icons tagged: Dreadful Ruler
    * flavour text: A devoted adherent to the traditional ways of the people, Krutoj led an uprising and murdered his Christian liege, seizing the throne for himself. But his scheme to do away with his liege's son ended in his own demise. **Can you overcome your rivals and legitimize your rule, despite its bloody beginning?**
 10. Sheik Badr, Acre, 1066
-   * achievements icons tagged: Your Eternal Reward
-     + second character with "Advanced" difficulty
-   * flavour text: A Fatimid soldier of Armenian origin, Badr rose through ranks to become supreme military dictator of the Caliphate, reducing the Caliph himself to little more than a figurehead. **Badr and his successors dominated Egyptian politics for more than sixty years - can you exceed their deeds and do away with the Caliph entirely?**
-11. Maharaja Prithviraja, Rajputana, 1178
-   * achievements icons tagged: For the Faith!
-   * flavour text: Prithviraja struggled valiantly against repeated Ghurid incurions, triumphing over the invaders in at least one great battle, but met his end as a prisoner of the Ghurids. **Can you repel the Ghurid menace and ensure the future of the Chauhan dynasty?**
+    * achievements icons tagged: Your Eternal Reward
+        + second character with "Advanced" difficulty
+    * flavour text: A Fatimid soldier of Armenian origin, Badr rose through ranks to become supreme military dictator of the Caliphate, reducing the Caliph himself to little more than a figurehead. **Badr and his successors dominated Egyptian politics for more than sixty years - can you exceed their deeds and do away with the Caliph entirely?**
+    * achievements icons tagged: For the Faith!
+    * flavour text: Prithviraja struggled valiantly against repeated Ghurid incurions, triumphing over the invaders in at least one great battle, but met his end as a prisoner of the Ghurids. **Can you repel the Ghurid menace and ensure the future of the Chauhan dynasty?**
 
 If you want to try out the ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
