@@ -28,6 +28,7 @@ Listing character of week from CK3 game. PDX updated it every Friday(in GMT+6:30
     * achievements icons tagged: Your Eternal Reward
         + second character with "Advanced" difficulty
     * flavour text: A Fatimid soldier of Armenian origin, Badr rose through ranks to become supreme military dictator of the Caliphate, reducing the Caliph himself to little more than a figurehead. **Badr and his successors dominated Egyptian politics for more than sixty years - can you exceed their deeds and do away with the Caliph entirely?**
+11. Maharaja Prithviraja, Rajputana, 1178
     * achievements icons tagged: For the Faith!
     * flavour text: Prithviraja struggled valiantly against repeated Ghurid incurions, triumphing over the invaders in at least one great battle, but met his end as a prisoner of the Ghurids. **Can you repel the Ghurid menace and ensure the future of the Chauhan dynasty?**
 
