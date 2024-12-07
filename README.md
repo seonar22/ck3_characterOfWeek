@@ -29,13 +29,13 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: Your Eternal Reward
 11. [Maharaja Prithviraja, Rajputana, 1178](info/portraits/11_Prithviraja.png)
     * achievements icons tagged: For the Faith!
+12. [Duke Lambert, Spoleto, 867](info/portraits/NA_Lambert.png)
+    * achievements icons tagged: Black Dinner
 
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
 
-1. [Duke Lambert, Spoleto, 867](info/portraits/NA_Lambert.png)
-   * achievements icons tagged: Black Dinner
 1. [Duke Sargis, Greater Armenia, 1178](info/portraits/NA_Sargis.png)
    * achievements icons tagged: For the Faith!
 1. [Jarl Dyre, Kyiv, 867](info/portraits/NA_Dyre.png)
