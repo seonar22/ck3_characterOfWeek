@@ -116,3 +116,25 @@ This is starting from character appearing next from above list.
    * achievements icons tagged: Darius' Revenge, Royal Flush, Saint
 1. [Petty King Ælla, Northumbria, 867](info/portraits/NA_AElla.png)
    * achievements icons tagged: A Legacy to Last the Ages
+   
+
+[This is list of characters from PDX webstie for "Legends".](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/)
+
+1. [Rodrigo Diaz “The Campeador” El Cid](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/rodrigo-diaz-the-campeador-el-cid)
+   * location: Kingdom of Castille
+1. [Hassan Sabbah](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/hassan-sabbah)
+   * location: The Seljuk Empire
+1. [Salah al-Din Yusuf](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/salah-al-din-yusuf)
+   * location: Egypt
+1. [Princess Sibylla](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/princess-sibylla)
+   * location: Ghazza
+1. [Petty King Murchad](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/petty-king-murchad)
+   * location: Munster
+1. [Duke Robert](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/duke-robert)
+   * location: Munste
+1. [Duchess Matilda](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/duchess-matilda)
+   * location: Tuscany
+1. [Duke Vratislav](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/duke-vratislav)
+   * location: Bohemia
+1. [Emir Yahya](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/emir-yahya)
+   * location: Tulahytula 
