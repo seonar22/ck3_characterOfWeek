@@ -33,17 +33,17 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: Black Dinner
 13. [Duke Sargis, Greater Armenia, 1178](info/portraits/NA_Sargis.png)
     * achievements icons tagged: For the Faith!
+14. [Jarl Dyre, Kyiv, 867](info/portraits/NA_Dyre.png)
+    * achievements icons tagged: Moving up in the World
+15. [Eadgar, Warwickshire, 1066](info/portraits/NA_Eadgar.png)
+    * achievements icons tagged: From Rags to Riches
+16. [Sultan Ahmad, Egypt, 867](info/portraits/NA_Ahmad.png)
+    * achievements icons tagged: Rich in Diversity, Mulch Them Dry
 
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
 
-1. [Jarl Dyre, Kyiv, 867](info/portraits/NA_Dyre.png)
-   * achievements icons tagged: Moving up in the World
-1. [Eadgar, Warwickshire, 1066](info/portraits/NA_Eadgar.png)
-   * achievements icons tagged: From Rags to Riches
-1. [Sultan Ahmad, Egypt, 867](info/portraits/NA_Ahmad.png)
-   * achievements icons tagged: Rich in Diversity, Mulch Them Dry
 1. [Count Alusian, Vidin, 1066](info/portraits/NA_Alusian.png)
    * achievements icons tagged: From Rags to Riches
 1. [Count Werner, Aargau, 1066](info/portraits/NA_Werner_aargau.png)
