@@ -39,13 +39,13 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: From Rags to Riches
 16. [Sultan Ahmad, Egypt, 867](info/portraits/NA_Ahmad.png)
     * achievements icons tagged: Rich in Diversity, Mulch Them Dry
-
+17. [Count Alusian, Vidin, 1066](info/portraits/NA_Alusian.png)
+    * achievements icons tagged: From Rags to Riches
+   
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
 
-1. [Count Alusian, Vidin, 1066](info/portraits/NA_Alusian.png)
-   * achievements icons tagged: From Rags to Riches
 1. [Count Werner, Aargau, 1066](info/portraits/NA_Werner_aargau.png)
    * achievements icons tagged: A.E.I.O.U. & Me, Keeping it in the Family, What Nepotism?
 1. [Raja Vicayalaya, Chola Nadu, 867](info/portraits/NA_Vicayalaya.png)
