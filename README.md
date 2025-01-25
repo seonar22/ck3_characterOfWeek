@@ -43,13 +43,13 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: From Rags to Riches
 18. [Count Werner, Aargau, 1066](info/portraits/NA_Werner_aargau.png)
     * achievements icons tagged: A.E.I.O.U. & Me, Keeping it in the Family, What Nepotism?
-   
+19. [Raja Vicayalaya, Chola Nadu, 867](info/portraits/NA_Vicayalaya.png)
+    * achievements icons tagged: The Grandest Tour
+
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
 
-1. [Raja Vicayalaya, Chola Nadu, 867](info/portraits/NA_Vicayalaya.png)
-   * achievements icons tagged: The Grandest Tour
 1. [Count Piarres, Albarrracin, 1178](info/portraits/NA_Piarres.png)
    * achievements icons tagged: Reconquista, Saint
 1. [Earl John, Ulster, 1178](info/portraits/NA_John.png)
