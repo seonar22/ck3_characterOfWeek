@@ -45,29 +45,29 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: A.E.I.O.U. & Me, Keeping it in the Family, What Nepotism?
 19. [Raja Vicayalaya, Chola Nadu, 867](info/portraits/NA_Vicayalaya.png)
     * achievements icons tagged: The Grandest Tour
+20. [Count Piarres, Albarrracin, 1178](info/portraits/NA_Piarres.png)
+    * achievements icons tagged: Reconquista, Saint
+21. [Earl John, Ulster, 1178](info/portraits/NA_John.png)
+    * achievements icons tagged: Changing Course, A Name Known Throughout the World
+22. [Sheikh Ishaq, Baalbek, 1066](info/portraits/NA_Ishaq.png)
+    * achievements icons tagged: Moving up in the World
+23. [Heinrich the Lion, Angria, 1178](info/portraits/NA_Heinrich.png)
+    * achievements icons tagged: Imperial March
+24. [Petty King Dumnarth, Cornwall, 867](info/portraits/NA_Dumnarth.png)
+    * achievements icons tagged: Stressful Situation
+25. [Sultan Khusraw Malik, Punjab, 1178](info/portraits/NA_Khusraw.png)
+    * achievements icons tagged: Mulch Them Dry, Fiscal Responsibility, For the Faith!
+26. [Count Herbert, Vermandois, 1066](info/portraits/NA_Herbert.png)
+    * achievements icons tagged: Carolingian Consolidation
+27. [Emir Aba, Socotra, 1178](info/portraits/NA_Aba.png)
+    * achievements icons tagged: Saint, or the Faith!
+28. [Count Werner, Worms, 867](info/portraits/NA_Werner_worms.png)
+    * achievements icons tagged: Saint, From Rags to Riches
 
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
 
-1. [Count Piarres, Albarrracin, 1178](info/portraits/NA_Piarres.png)
-   * achievements icons tagged: Reconquista, Saint
-1. [Earl John, Ulster, 1178](info/portraits/NA_John.png)
-   * achievements icons tagged: Changing Course, A Name Known Throughout the World
-1. [Sheikh Ishaq, Baalbek, 1066](info/portraits/NA_Ishaq.png)
-   * achievements icons tagged: Moving up in the World
-1. [Heinrich the Lion, Angria, 1178](info/portraits/NA_Heinrich.png)
-   * achievements icons tagged: Imperial March
-1. [Petty King Dumnarth, Cornwall, 867](info/portraits/NA_Dumnarth.png)
-   * achievements icons tagged: Stressful Situation
-1. [Sultan Khusraw Malik, Punjab, 1178](info/portraits/NA_Khusraw.png)
-   * achievements icons tagged: Mulch Them Dry, Fiscal Responsibility, For the Faith!
-1. [Count Herbert, Vermandois, 1066](info/portraits/NA_Herbert.png)
-   * achievements icons tagged: Carolingian Consolidation
-1. [Emir Aba, Socotra, 1178](info/portraits/NA_Aba.png)
-   * achievements icons tagged: Saint, or the Faith!
-1. [Count Werner, Worms, 867](info/portraits/NA_Werner_worms.png)
-   * achievements icons tagged: Saint, From Rags to Riches
 1. [King Alfonsu, Asturias, 867](info/portraits/NA_Alfonsu.png)
    * achievements icons tagged: Iberian Hostilities, Reconquista
 1. [Maharaja Amoghavarsha, Karnata, 867](info/portraits/NA_Amoghavarsha.png)
