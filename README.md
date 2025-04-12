@@ -63,15 +63,14 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: Saint, or the Faith!
 28. [Count Werner, Worms, 867](info/portraits/NA_Werner_worms.png)
     * achievements icons tagged: Saint, From Rags to Riches
+29. [King Alfonsu, Asturias, 867](info/portraits/NA_Alfonsu.png)
+    * achievements icons tagged: Iberian Hostilities, Reconquista
+30. [Maharaja Amoghavarsha, Karnata, 867](info/portraits/NA_Amoghavarsha.png)
+    * achievements icons tagged: Saint
 
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
-
-1. [King Alfonsu, Asturias, 867](info/portraits/NA_Alfonsu.png)
-   * achievements icons tagged: Iberian Hostilities, Reconquista
-1. [Maharaja Amoghavarsha, Karnata, 867](info/portraits/NA_Amoghavarsha.png)
-   * achievements icons tagged: Saint
 1. [Chieftain Haraldr, Vestfold, 867](info/portraits/NA_Haraldr.png)
    * achievements icons tagged: Far From Home, Canute the Greater, King of all the Isles
 1. [Sultan Muhammad, Africa, 867](info/portraits/NA_Muhammad.png)
