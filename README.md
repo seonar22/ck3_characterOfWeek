@@ -67,16 +67,16 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: Iberian Hostilities, Reconquista
 30. [Maharaja Amoghavarsha, Karnata, 867](info/portraits/NA_Amoghavarsha.png)
     * achievements icons tagged: Saint
+31. [Chieftain Haraldr, Vestfold, 867](info/portraits/NA_Haraldr.png)
+    * achievements icons tagged: Far From Home, Canute the Greater, King of all the Isles
+32. [Sultan Muhammad, Africa, 867](info/portraits/NA_Muhammad.png)
+    * achievements icons tagged: Crème de la Crème
+33. [Count Gregorios, Napoli, 867](info/portraits/NA_Gregorios.png)
+    * achievements icons tagged: Rise from the Ashes
 
 This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
 
 This is starting from character appearing next from above list.
-1. [Chieftain Haraldr, Vestfold, 867](info/portraits/NA_Haraldr.png)
-   * achievements icons tagged: Far From Home, Canute the Greater, King of all the Isles
-1. [Sultan Muhammad, Africa, 867](info/portraits/NA_Muhammad.png)
-   * achievements icons tagged: Crème de la Crème
-1. [Count Gregorios, Napoli, 867](info/portraits/NA_Gregorios.png)
-   * achievements icons tagged: Rise from the Ashes
 1. [Prince Ashot, Armenian Principalities, 867](info/portraits/NA_Ashot.png)
    * achievements icons tagged: The True Royal Court
 1. [Petty King Gudröd, Isles, 1066](info/portraits/NA_Gudrod.png)
