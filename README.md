@@ -73,10 +73,6 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
     * achievements icons tagged: Crème de la Crème
 33. [Count Gregorios, Napoli, 867](info/portraits/NA_Gregorios.png)
     * achievements icons tagged: Rise from the Ashes
-
-This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
-
-This is starting from character appearing next from above list.
 1. [Prince Ashot, Armenian Principalities, 867](info/portraits/NA_Ashot.png)
    * achievements icons tagged: The True Royal Court
 1. [Petty King Gudröd, Isles, 1066](info/portraits/NA_Gudrod.png)
@@ -111,6 +107,10 @@ This is starting from character appearing next from above list.
    * achievements icons tagged: Friendship Is Magic, The Andalusian Inquisition, Iberian Conciliation
 1. [Prince Erik, Uppland, 1066](info/portraits/NA_Erik.png)
    * achievements icons tagged: Völva, Saga in Stone, Vladimir's Second Choice
+   
+This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
+
+This is starting from character appearing next from above list. So far, only two left, at the time of 29/08/2025. Unless pdx makes change in chapter 4 release, there is only 2 more characters left in their list, before restarting.
 1. [Imam Muhammed, Nizari Imamate, 1178](info/portraits/NA_Muhammed_nizari.png)
    * achievements icons tagged: Darius' Revenge, Royal Flush, Saint
 1. [Petty King Ælla, Northumbria, 867](info/portraits/NA_AElla.png)
