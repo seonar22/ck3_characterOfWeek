@@ -107,14 +107,20 @@ If I am not wrong, PDX will add more characters to list, as they can't rotate ju
    * achievements icons tagged: Friendship Is Magic, The Andalusian Inquisition, Iberian Conciliation
 1. [Prince Erik, Uppland, 1066](info/portraits/NA_Erik.png)
    * achievements icons tagged: Völva, Saga in Stone, Vladimir's Second Choice
-   
-This is rest of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
-
-This is starting from character appearing next from above list. So far, only two left, at the time of 29/08/2025. Unless pdx makes change in chapter 4 release, there is only 2 more characters left in their list, before restarting.
 1. [Imam Muhammed, Nizari Imamate, 1178](info/portraits/NA_Muhammed_nizari.png)
    * achievements icons tagged: Darius' Revenge, Royal Flush, Saint
 1. [Petty King Ælla, Northumbria, 867](info/portraits/NA_AElla.png)
    * achievements icons tagged: A Legacy to Last the Ages
+   
+Above is list of characters appearing when game is run in debug mode. Also including ones listed in announcement video, [from this post,](https://www.reddit.com/r/CrusaderKings/comments/1fk4b76/character_of_the_week_coming_with_free_update/)
+at the time of 14/09/2025, the list is reached to end, but no new characters added when checked via debug mode.
+
+This is list of most played characters from PDX's 5th anniversary of CK3. The statics is from 2024, not from start of game launch. The video I saw was on Facebook page's reel, so no screenshot or images.
+- Petty King Aethelred(Brother of Alfred the Great), 867. Picked 319,998 times
+- Harald Fairhair/Tanglehair, likely 867(I have never played this character). Picked 379,809 times
+- Basileus Basileios(Basil I? If so, in 867). Picked 565,036 times
+- High Chieftain Siemowit(A character of Piast , in Poland region. At 867). Picked 310,088 times
+- your own custom adventurer(not ruler) in 867. Picked 1,336,365 times
    
 
 [This is list of characters from PDX webstie for "Legends".](https://www.paradoxinteractive.com/games/crusader-kings-iii/legends-of-crusader-kings-iii/)
